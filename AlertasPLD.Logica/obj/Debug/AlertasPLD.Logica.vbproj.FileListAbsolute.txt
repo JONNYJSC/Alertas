@@ -1,0 +1,17 @@
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\bin\Debug\AlertasPLD.Logica.dll
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\bin\Debug\AlertasPLD.Logica.pdb
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\bin\Debug\AlertasPLD.Logica.xml
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\bin\Debug\AlertasPLD.Datos.dll
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\bin\Debug\AlertasPLD.Entidades.dll
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\bin\Debug\AlertasPLD.Datos.pdb
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\bin\Debug\AlertasPLD.Datos.xml
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\bin\Debug\AlertasPLD.Entidades.pdb
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\bin\Debug\AlertasPLD.Entidades.xml
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\obj\Debug\AlertasPLD.Logica.vbproj.AssemblyReference.cache
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\obj\Debug\AlertasPLD.Logica.Resources.resources
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\obj\Debug\AlertasPLD.Logica.vbproj.GenerateResource.cache
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\obj\Debug\AlertasPLD.Logica.vbproj.CoreCompileInputs.cache
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\obj\Debug\AlertasPLD.Logica.vbproj.CopyComplete
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\obj\Debug\AlertasPLD.Logica.dll
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\obj\Debug\AlertasPLD.Logica.xml
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Logica\obj\Debug\AlertasPLD.Logica.pdb

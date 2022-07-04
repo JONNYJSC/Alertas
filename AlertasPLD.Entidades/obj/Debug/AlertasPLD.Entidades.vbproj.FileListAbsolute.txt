@@ -1,0 +1,10 @@
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Entidades\bin\Debug\AlertasPLD.Entidades.dll
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Entidades\bin\Debug\AlertasPLD.Entidades.pdb
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Entidades\bin\Debug\AlertasPLD.Entidades.xml
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Entidades\obj\Debug\AlertasPLD.Entidades.Resources.resources
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Entidades\obj\Debug\AlertasPLD.Entidades.vbproj.GenerateResource.cache
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Entidades\obj\Debug\AlertasPLD.Entidades.vbproj.CoreCompileInputs.cache
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Entidades\obj\Debug\AlertasPLD.Entidades.dll
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Entidades\obj\Debug\AlertasPLD.Entidades.xml
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Entidades\obj\Debug\AlertasPLD.Entidades.pdb
+C:\Users\jjona\source\repos\AlertasPLD\AlertasPLD.Entidades\obj\Debug\AlertasPLD.Entidades.vbproj.AssemblyReference.cache
