@@ -24,8 +24,7 @@ Partial Class AlertasPLD
     Private Sub InitializeComponent()
         Me.dtPersona = New System.Windows.Forms.DataGridView()
         Me.btnAlerta = New System.Windows.Forms.Button()
-        Me.Id = New System.Windows.Forms.DataGridViewTextBoxColumn()
-        Me.Nombre = New System.Windows.Forms.DataGridViewTextBoxColumn()
+        Me.AlertaListView = New System.Windows.Forms.ListView()
         Me.tercero = New System.Windows.Forms.DataGridViewCheckBoxColumn()
         CType(Me.dtPersona, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
@@ -33,7 +32,7 @@ Partial Class AlertasPLD
         'dtPersona
         '
         Me.dtPersona.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize
-        Me.dtPersona.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.Id, Me.Nombre, Me.tercero})
+        Me.dtPersona.Columns.AddRange(New System.Windows.Forms.DataGridViewColumn() {Me.tercero})
         Me.dtPersona.Location = New System.Drawing.Point(12, 22)
         Me.dtPersona.Name = "dtPersona"
         Me.dtPersona.Size = New System.Drawing.Size(361, 169)
@@ -48,15 +47,15 @@ Partial Class AlertasPLD
         Me.btnAlerta.Text = "Enviar"
         Me.btnAlerta.UseVisualStyleBackColor = True
         '
-        'Id
+        'AlertaListView
         '
-        Me.Id.HeaderText = "Id"
-        Me.Id.Name = "Id"
-        '
-        'Nombre
-        '
-        Me.Nombre.HeaderText = "Nombre"
-        Me.Nombre.Name = "Nombre"
+        Me.AlertaListView.HideSelection = False
+        Me.AlertaListView.Location = New System.Drawing.Point(379, 22)
+        Me.AlertaListView.Name = "AlertaListView"
+        Me.AlertaListView.Size = New System.Drawing.Size(345, 169)
+        Me.AlertaListView.TabIndex = 2
+        Me.AlertaListView.UseCompatibleStateImageBehavior = False
+        Me.AlertaListView.View = System.Windows.Forms.View.Details
         '
         'tercero
         '
@@ -67,7 +66,8 @@ Partial Class AlertasPLD
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.ClientSize = New System.Drawing.Size(733, 249)
+        Me.Controls.Add(Me.AlertaListView)
         Me.Controls.Add(Me.btnAlerta)
         Me.Controls.Add(Me.dtPersona)
         Me.Name = "AlertasPLD"
@@ -80,7 +80,6 @@ Partial Class AlertasPLD
 
     Friend WithEvents dtPersona As DataGridView
     Friend WithEvents btnAlerta As Button
-    Friend WithEvents Id As DataGridViewTextBoxColumn
-    Friend WithEvents Nombre As DataGridViewTextBoxColumn
+    Friend WithEvents AlertaListView As ListView
     Friend WithEvents tercero As DataGridViewCheckBoxColumn
 End Class
